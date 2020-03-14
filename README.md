@@ -5,3 +5,5 @@
 - [전략 패턴](https://github.com/im-yeobi/blog-sample-code/tree/master/design-pattern/strategy-pattern)
 - [옵저버 패턴](https://github.com/im-yeobi/blog-sample-code/tree/master/design-pattern/observer-pattern)
 - [데코레이터 패턴](https://github.com/im-yeobi/blog-sample-code/tree/master/design-pattern/decorator-pattern)
+- 팩토리 패턴
+  - [팩토리 메소드 패턴](https://github.com/im-yeobi/blog-sample-code/tree/master/design-pattern/factory-method-pattern)
